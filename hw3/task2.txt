@@ -1,0 +1,21 @@
+Task 2:
+(i):
+Linear Kernel Average accuracy over 10 measures= 62.28%
+
+Polynomial kernel (degree=5) average over 10 measures= 62.28%
+
+(ii):
+
+Polynomial kernel (degree=5) 
+training accuracy= 62.89%
+Test set accuracy= 61.41%
+
+Linear kernel
+training accuracy= 60.46%
+Test set accuracy= 59.82%
+
+
+Polynomial kernel performs better in terms of training and test accuracy.
+Both kernels perform equally well in terms of validation accuracy 
+
+
